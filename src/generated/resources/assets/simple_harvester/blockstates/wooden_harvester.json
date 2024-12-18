@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "simple_harvester:block/wooden_harvester"
+    }
+  }
+}

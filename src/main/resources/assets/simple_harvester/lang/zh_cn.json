@@ -1,0 +1,9 @@
+{
+  "simple_harvester.harvester": "收割机",
+  "block.simple_harvester.wooden_harvester": "木收割机",
+  "block.simple_harvester.iron_harvester": "铁收割机",
+  "block.simple_harvester.gold_harvester": "金收割机",
+  "block.simple_harvester.diamond_harvester": "钻石收割机",
+  "itemGroup.simple_harvester": "简易收割机",
+  "harvest_radius": "收获半径:"
+}

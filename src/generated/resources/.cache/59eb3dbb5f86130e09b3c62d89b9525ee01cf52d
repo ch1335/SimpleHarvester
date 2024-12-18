@@ -1,0 +1,5 @@
+// 1.21.1	2024-12-18T15:39:06.5594993	Loot Tables
+f1447283d25cc381b9a6dcaf9884e9b0af2bd28b data/simple_harvester/loot_table/blocks/diamond_harvester.json
+44fa764e52b272bdf7ab703571db16e72f90555d data/simple_harvester/loot_table/blocks/gold_harvester.json
+a63312f48613e7f736c5a430ad694a62633eafb8 data/simple_harvester/loot_table/blocks/iron_harvester.json
+c2d20ff9fec32e13db8f19dedfbce339ff51116e data/simple_harvester/loot_table/blocks/wooden_harvester.json

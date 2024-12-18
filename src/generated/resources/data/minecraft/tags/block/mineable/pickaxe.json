@@ -1,0 +1,7 @@
+{
+  "values": [
+    "simple_harvester:iron_harvester",
+    "simple_harvester:gold_harvester",
+    "simple_harvester:diamond_harvester"
+  ]
+}

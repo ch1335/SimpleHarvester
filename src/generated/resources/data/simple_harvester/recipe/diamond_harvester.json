@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "simple_harvester:gold_harvester"
+    },
+    "U": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "UUU",
+    "UMU",
+    "UUU"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simple_harvester:diamond_harvester"
+  }
+}

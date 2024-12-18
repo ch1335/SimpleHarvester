@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "simple_harvester:gold_harvester"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "simple_harvester:blocks/gold_harvester"
+}

@@ -1,0 +1,9 @@
+{
+  "simple_harvester.harvester": "Harvester",
+  "block.simple_harvester.wooden_harvester": "Wooden Harvester",
+  "block.simple_harvester.iron_harvester": "Iron Harvester",
+  "block.simple_harvester.gold_harvester": "Gold Harvester",
+  "block.simple_harvester.diamond_harvester": "Diamond Harvester",
+  "itemGroup.simple_harvester": "Simple Harvester",
+  "harvest_radius": "Harvest radius:"
+}
