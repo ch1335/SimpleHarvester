@@ -40,7 +40,7 @@ public class HarvesterBlockEntity extends BaseContainerBlockEntity {
 
     private int step = 0;
 
-    private final int totalStep;
+    private int totalStep;
 
     public HarvesterBlockEntity(BlockPos pos, BlockState blockState) {
         this(pos, blockState, 1);
@@ -81,6 +81,7 @@ public class HarvesterBlockEntity extends BaseContainerBlockEntity {
     protected void loadAdditional(@NotNull CompoundTag tag, HolderLookup.@NotNull Provider registries) {
         super.loadAdditional(tag, registries);
         range = tag.getInt("range");
+        totalStep = (int) Math.pow(range * 2 + 1, 2);
         this.items = NonNullList.withSize(this.getContainerSize(), ItemStack.EMPTY);
         ContainerHelper.loadAllItems(tag, this.items, registries);
     }
